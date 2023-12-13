@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kincsototh, a 2nd-year university student at BME (BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS)
+- 👀 I’m interested in improving my coding skills and becoming a programmer in the future. I started from zero in 2022 and have been actively improving since 
+- 🌱 I’m currently learning Java at university (I can already code in C and C++)
+- 📫 If you would like to reach me, don't hesitate to get in touch with kincsotothbusiness@gmail.com
